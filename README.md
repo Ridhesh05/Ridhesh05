@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhesh05" alt="ridhesh05" /></a> </p>
 
-- 🔭 I’m currently working on ** CRUD OPERATION DJANGO **
+- 🔭 I’m currently working on **CRUD_OPERATION**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Javascript**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ridheshchauhan5@gmail.com**
 
