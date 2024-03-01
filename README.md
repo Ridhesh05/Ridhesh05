@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhesh05" alt="ridhesh05" /></a> </p>
 
-- 🔭 I’m currently working on **CV Generator**
+- 🔭 I’m currently working on **IMDB CLONE**
 
 - 🌱 I’m currently learning **Django**
 
