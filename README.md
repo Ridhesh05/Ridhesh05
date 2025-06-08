@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 🎓 **Computer Science ** from IIIT Pune   
-🏆 **LeetCode Knight Badge** holder with 1903 rating  
+🏆 **LeetCode Knight Badge** holder with 1989 rating  
 🔥 **900+ Problems** solved across competitive platforms  
 🌟 **Top 2.4%** among 1M+ candidates in JEE 2022  
 
