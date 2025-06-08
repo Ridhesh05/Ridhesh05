@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science ** from IIIT Pune   
+🎓 **Computer Science** from IIIT Pune   
 🏆 **LeetCode Knight Badge** holder with 1989 rating  
 🔥 **900+ Problems** solved across competitive platforms  
 🌟 **Top 2.4%** among 1M+ candidates in JEE 2022  
@@ -103,7 +103,7 @@ print(ridhesh.say_hi())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhesh05/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridheshchauhan7@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ridhesh05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Ridhesh_0529/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridhesh05)
 
 </div>
