@@ -13,19 +13,17 @@
 
 ## 🚀 About Me
 
-🎓 **Computer Science Graduate** from IIIT Pune (2022)  
-💼 **Software Development Engineer Intern** at Bluestock Fintech  
-🌟 **Top 2.4%** among 1M+ candidates in JEE 2022  
+🎓 **Computer Science ** from IIIT Pune   
 🏆 **LeetCode Knight Badge** holder with 1903 rating  
-🔥 **500+ Problems** solved across competitive platforms  
+🔥 **900+ Problems** solved across competitive platforms  
+🌟 **Top 2.4%** among 1M+ candidates in JEE 2022  
 
 ```python
 class RidheshChauhan:
     def __init__(self):
-        self.role = "Backend Developer"
         self.location = "India"
         self.education = "IIIT Pune - B.Tech CSE"
-        self.current_focus = ["Django", "System Design", "Problem Solving"]
+        self.current_focus = ["Django","Express Js", "System Design", "Problem Solving"]
         self.hobbies = ["Competitive Programming", "Open Source", "Learning New Tech"]
     
     def say_hi(self):
@@ -75,45 +73,8 @@ print(ridhesh.say_hi())
 🥇 **Top 2.4%** in JEE 2022 (1M+ candidates)  
 🥉 **5th Place** - DevStorm Hackathon, DevFest 3.0 (BITS Goa)  
 🏅 **Top 15** - ULIP 2024-25 Hackathon (NLDS Logistics)  
-⚔️ **LeetCode Knight Badge** - 1903 Rating, 500+ Problems  
+⚔️ **LeetCode Knight Badge** - 1989 Rating, 900+ Problems  
 ⭐ **3-Star Rating** on CodeChef  
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Software Development Engineer Intern
-**Bluestock Fintech** | *Jan 2025 - Mar 2025*
-- 🔥 **Boosted API performance by 30%** through optimized database queries
-- 📊 Built dynamic data pipeline for real-time IPO listings
-- 🌐 Developed comprehensive web application with REST API
-- 📋 Integrated regulatory document downloads (RHP/DRHP PDFs)
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 💰 Smart Personal Finance Advisor
-**Tech Stack:** Django • Docker • ARIMA • JavaScript • Chart.js  
-🤖 ML-powered personalized financial advice  
-📈 ARIMA model for expense forecasting  
-🔐 User authentication & real-time dashboard  
-
-### 🛡️ Insurance Predictor
-**Tech Stack:** React • Django REST • Machine Learning  
-🎯 Accurate claim prediction models  
-⚡ Real-time predictions via RESTful APIs  
-📊 Interactive data visualizations  
-
-### ⚙️ Optimized Macro Processor
-**Tech Stack:** C++  
-🔄 Two-pass algorithm implementation  
-📚 Stack-based nested macro handling  
-⚡ Efficient macro call management  
 
 </div>
 
