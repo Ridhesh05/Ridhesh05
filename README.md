@@ -1,20 +1,159 @@
-<h1 align="center">Hi 👋, I'm Ridhesh Chauhan</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+# Hi there! 👋 I'm Ridhesh Chauhan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhesh05&label=Profile%20views&color=0e75b6&style=flat" alt="ridhesh05" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Full+Stack+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhesh05" alt="ridhesh05" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridhesh05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ridhesh05?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</div>
 
+---
 
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Django**
+🎓 **Computer Science Graduate** from IIIT Pune (2022)  
+💼 **Software Development Engineer Intern** at Bluestock Fintech  
+🌟 **Top 2.4%** among 1M+ candidates in JEE 2022  
+🏆 **LeetCode Knight Badge** holder with 1903 rating  
+🔥 **500+ Problems** solved across competitive platforms  
 
-- 📫 How to reach me **ridheshchauhan5@gmail.com**
+```python
+class RidheshChauhan:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.location = "India"
+        self.education = "IIIT Pune - B.Tech CSE"
+        self.current_focus = ["Django", "System Design", "Problem Solving"]
+        self.hobbies = ["Competitive Programming", "Open Source", "Learning New Tech"]
+    
+    def say_hi(self):
+        return "Thanks for visiting my profile! Let's connect and build something amazing together!"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ridhesh05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ridhesh05/" height="30" width="40" /></a>
-</p>
+ridhesh = RidheshChauhan()
+print(ridhesh.say_hi())
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+🥇 **Top 2.4%** in JEE 2022 (1M+ candidates)  
+🥉 **5th Place** - DevStorm Hackathon, DevFest 3.0 (BITS Goa)  
+🏅 **Top 15** - ULIP 2024-25 Hackathon (NLDS Logistics)  
+⚔️ **LeetCode Knight Badge** - 1903 Rating, 500+ Problems  
+⭐ **3-Star Rating** on CodeChef  
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Software Development Engineer Intern
+**Bluestock Fintech** | *Jan 2025 - Mar 2025*
+- 🔥 **Boosted API performance by 30%** through optimized database queries
+- 📊 Built dynamic data pipeline for real-time IPO listings
+- 🌐 Developed comprehensive web application with REST API
+- 📋 Integrated regulatory document downloads (RHP/DRHP PDFs)
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 💰 Smart Personal Finance Advisor
+**Tech Stack:** Django • Docker • ARIMA • JavaScript • Chart.js  
+🤖 ML-powered personalized financial advice  
+📈 ARIMA model for expense forecasting  
+🔐 User authentication & real-time dashboard  
+
+### 🛡️ Insurance Predictor
+**Tech Stack:** React • Django REST • Machine Learning  
+🎯 Accurate claim prediction models  
+⚡ Real-time predictions via RESTful APIs  
+📊 Interactive data visualizations  
+
+### ⚙️ Optimized Macro Processor
+**Tech Stack:** C++  
+🔄 Two-pass algorithm implementation  
+📚 Stack-based nested macro handling  
+⚡ Efficient macro call management  
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridhesh05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhesh05&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhesh05&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ridhesh05&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhesh05/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridheshchauhan7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ridhesh05)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridhesh05)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <p><i>Always excited to collaborate on innovative projects and solve challenging problems!</i></p>
+</div>
